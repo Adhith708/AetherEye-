@@ -1,0 +1,9 @@
+scapy>=2.5.0
+pyinstaller>=6.6.0
+
+
+
+
+
+
+
