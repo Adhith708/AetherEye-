@@ -1,2 +1,7 @@
 # AetherEye-
 A Network Monitoring Application
+
+In today’s digital era, efficient monitoring of network activity is crucial for maintaining security, performance, and reliability. This project presents the development of a Network Monitoring Application designed to track, analyze, and visualize network traffic in real time. The primary objective of the application is to provide users with insights into bandwidth usage, active connections, and potential anomalies that may indicate security threats or performance issues. The application was developed using python language with scapy, numpy, matplotlib libraries, and it incorporates features such as live packet capture, protocol identification, and traffic statistics. A user-friendly dashboard enables administrators to monitor host activity, detect unusual patterns, and receive alerts when thresholds are exceeded. Testing on a local area network demonstrated the application’s ability to accurately capture traffic, identify protocols, and highlight abnormal activity. The results confirm that the tool can serve as a lightweight, cost-effective solution for small to medium-sized networks. This project contributes toward strengthening network management practices and offers a scalable foundation for future enhancements, such as intrusion detection and automated threat response.
+
+
+Keywords: Scapy,numpy,matplotlib, capture traffic, intrusion detection, identify protocols.
